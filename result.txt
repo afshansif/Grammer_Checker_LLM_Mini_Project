@@ -1,0 +1,12 @@
+Corrected:
+My friend and I were going to the market yesterday when we saw a strange thing happening. There was a large crowd standing outside a store, and everyone was looking very confused. We asked one of the people what was going on, and he told us that the store had run out of stock due to a sudden rush of customers.
+
+Changes:
+* Changed "Me and my friend was" to "My friend and I were" to use the correct subject pronoun and subject-verb agreement.
+* Changed "seen" to "saw" to correct the verb tense.
+* Removed "of" after "outside" to improve phrasing.
+* Changed "confuse" to "confused" to use the correct adjective form.
+* Changed "person" to "people" to correct the plural noun form after "one of the."
+* Changed "is" to "was" to maintain consistent past tense.
+* Changed "have ran" to "had run" to use the correct past perfect tense and past participle.
+* Changed "costumers" to "customers" to fix the spelling error.
